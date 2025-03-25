@@ -1,0 +1,41 @@
+<svg width="31.996582" height="31.996094" viewBox="0 0 31.9966 31.9961" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_189_483_dd" x="0.000000" y="0.000000" width="31.996582" height="31.996094" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+			<feOffset dx="0" dy="0.984499"/>
+			<feGaussianBlur stdDeviation="1.64083"/>
+			<feComposite in2="hardAlpha" operator="out" k2="-1" k3="1"/>
+			<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+			<feBlend mode="normal" in2="BackgroundImageFix" result="effect_dropShadow_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_dropShadow_1" result="shape"/>
+		</filter>
+		<clipPath id="clip189_491">
+			<rect id="instagram 1" width="7.875977" height="7.875977" transform="translate(12.306396 10.829834)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<radialGradient gradientTransform="translate(15.9982 15.0135) rotate(90) scale(0.246123 0.246124)" cx="0.000000" cy="0.000000" r="1.000000" id="paint_angular_189_483_0" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#B8D2F1"/>
+			<stop offset="0.166667" stop-color="#F289AA"/>
+			<stop offset="0.294697" stop-color="#C68BF0"/>
+			<stop offset="0.427083" stop-color="#D164DA"/>
+			<stop offset="0.614583" stop-color="#C963E8"/>
+			<stop offset="0.718750" stop-color="#BFC2E8"/>
+			<stop offset="0.802083" stop-color="#FFC999"/>
+			<stop offset="0.875000" stop-color="#D0D8C9"/>
+			<stop offset="0.928149" stop-color="#BAD0F1"/>
+			<stop offset="0.997133" stop-color="#CED8CB"/>
+			<stop offset="1.000000" stop-color="#FFFFFF" stop-opacity="0.000000"/>
+		</radialGradient>
+	</defs>
+	<g filter="url(#filter_189_483_dd)">
+		<path id="Background" d="M15.99 26.08C22.11 26.08 27.07 21.13 27.07 15.01C27.07 8.89 22.11 3.93 15.99 3.93C9.88 3.93 4.92 8.89 4.92 15.01C4.92 21.13 9.88 26.08 15.99 26.08Z" fill="url(#paint_angular_189_483_0)" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+	<g clip-path="url(#clip189_491)">
+		<path id="Vector" d="M19.02 10.82L13.46 10.82C12.82 10.82 12.3 11.34 12.3 11.98L12.3 17.55C12.3 18.18 12.82 18.7 13.46 18.7L19.02 18.7C19.66 18.7 20.18 18.18 20.18 17.55L20.18 11.98C20.18 11.34 19.66 10.82 19.02 10.82ZM19.72 17.55C19.72 17.93 19.41 18.24 19.02 18.24L13.46 18.24C13.07 18.24 12.76 17.93 12.76 17.55L12.76 11.98C12.76 11.6 13.07 11.29 13.46 11.29L19.02 11.29C19.41 11.29 19.72 11.6 19.72 11.98L19.72 17.55Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M18.78 11.76C18.52 11.76 18.32 11.97 18.32 12.22C18.32 12.48 18.52 12.69 18.78 12.69C19.03 12.69 19.24 12.48 19.24 12.22C19.24 11.97 19.03 11.76 18.78 11.76Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M16.24 12.69C15.09 12.69 14.16 13.62 14.16 14.76C14.16 15.91 15.09 16.84 16.24 16.84C17.38 16.84 18.32 15.91 18.32 14.76C18.32 13.62 17.38 12.69 16.24 12.69ZM16.24 16.38C15.35 16.38 14.62 15.65 14.62 14.76C14.62 13.87 15.35 13.15 16.24 13.15C17.13 13.15 17.85 13.87 17.85 14.76C17.85 15.65 17.13 16.38 16.24 16.38Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>

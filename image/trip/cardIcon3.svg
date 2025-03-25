@@ -1,0 +1,16 @@
+<svg width="36.000000" height="36.000000" viewBox="0 0 36 36" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip1_208">
+			<rect id="send 2" width="14.000000" height="14.000000" transform="translate(11.000000 12.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<circle id="Ellipse 3" cx="18.000000" cy="18.000000" r="18.000000" fill="#F5F5F5" fill-opacity="1.000000"/>
+	<rect id="send 2" width="14.000000" height="14.000000" transform="translate(11.000000 12.000000)" fill="#9CA0B0" fill-opacity="0"/>
+	<g clip-path="url(#clip1_208)">
+		<path id="Vector" d="M23.34 13.24L17.02 19.58C16.95 19.54 16.87 19.5 16.79 19.47L12.62 18.06C12.5 18.03 12.38 17.96 12.3 17.85C12.22 17.75 12.18 17.63 12.18 17.5C12.18 17.37 12.22 17.24 12.3 17.14C12.38 17.03 12.5 16.96 12.62 16.93L22.97 13.25C23.04 13.23 23.11 13.21 23.18 13.21C23.23 13.21 23.29 13.22 23.34 13.24Z" fill="#84829A" fill-opacity="1.000000" fill-rule="nonzero"/>
+		<path id="Vector" d="M23.74 14.02L20.06 24.38C20.02 24.5 19.94 24.6 19.84 24.68C19.73 24.75 19.6 24.78 19.48 24.78C19.35 24.78 19.22 24.75 19.12 24.67C19.01 24.6 18.93 24.49 18.89 24.37L17.51 20.2C17.48 20.12 17.44 20.04 17.4 19.97L23.75 13.65C23.79 13.77 23.78 13.9 23.74 14.02Z" fill="#84829A" fill-opacity="1.000000" fill-rule="nonzero"/>
+	</g>
+</svg>
