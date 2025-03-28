@@ -13,7 +13,7 @@ body {
 
 .container {
     margin: auto;
-	padding: 0 20px;
+	padding: 0 40px;
 	max-width: 1200px;
 }
 
@@ -48,7 +48,7 @@ body {
     position: relative;
     z-index: 50;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     width: 30px;
     height: 18px;
 }
@@ -115,6 +115,8 @@ body {
     .nav__menu {
         display: none;
         flex-direction: column;
+        align-items: center;
+        justify-content: center;
         position: fixed;
         height: 100%;
         width: 100%;
@@ -245,6 +247,7 @@ body {
 .top__image {
     position: relative;
     max-width: 600px;
+    width: 100%;
 }
 
 .top__girl {
@@ -254,6 +257,8 @@ top: 30px;
 }
 
 .girl {
+position: relative;
+width: inherit;
 position: relative;
 z-index: 20;
 }
@@ -466,8 +471,8 @@ z-index: 20;
 }
 
 .tripCard__shadow {
-    max-width: 370px;
-    width: 100%;
+    position: relative;
+    width: 370px;
     box-shadow: 10px 70px 80px -10px rgba(17, 12, 1, 0.1);
     border-radius: 24px;
 }
@@ -537,6 +542,7 @@ z-index: 20;
 }
 
 .tripCard__inner {
+    position: relative;
     height: 400px;
     display: flex;
     flex-direction: column;
@@ -549,17 +555,21 @@ z-index: 20;
 }
 
 .tripCard__image {
+    max-width: 300px;
+    width: 100%;
     margin-top: 20px;
 }
 
 .tripCard__image img {
-    max-width: 320px;
-    width: 100%;
+    max-width: inherit;
 }
 .tripCard__text {
+    max-width: 300px;
+    width: 100%;
     display: flex;
     flex-direction: column;
     align-items: start;
+    flex-wrap: wrap;
     gap: 10px 15px;
     margin-top: 26px;
 }
@@ -605,8 +615,12 @@ z-index: 20;
 }
 
 .like__icon {
+    flex-shrink: 1;
     margin-left: 20px;
     margin-top: 18px;
+}
+.like__icon img {
+    width: inherit;
 }
 
 .like__text {
@@ -653,7 +667,9 @@ z-index: 20;
     background-color: #8A79DF;
     border-radius: 30px;
 }
+
 .list__quantity {
+    width: 300px;
     display: flex;
     justify-content: space-between;
     margin-top: 10px;
@@ -663,13 +679,11 @@ z-index: 20;
 .like {
     display: flex;
     align-items: center;
-    margin-left: 40px;
     cursor: pointer;
 }
 
 .quantity {
     display: flex;
-    width: 200px;
     gap: 15px;
     justify-content: flex-start;
     align-items: center;
@@ -1159,6 +1173,7 @@ z-index: 20;
 }
 
 .by {
+    margin-top: 30px;
     font-style: italic;
     color: #5E6282;
     font-size: 15px;
@@ -1201,6 +1216,12 @@ z-index: 20;
 @media (max-width: 1300px) {
     .forms::before {
         opacity: 0;
+    }
+}
+
+@media (max-width: 1200px) {
+    .container {
+        max-width: 1000px;
     }
 }
 @media (max-width: 1024px) {
@@ -1273,6 +1294,7 @@ z-index: 20;
     .footer__social {
         margin-top: 20px;
     }
+
 }
 @media (max-width: 768px) {
     .testimonials__inner {
@@ -1354,8 +1376,8 @@ z-index: 20;
 @media (max-width: 480px) {
     .trip__inner {
         display: flex;
-        flex-direction: column;
-        align-items: flex-start;
+        align-items: center;
+        justify-content: center;
     }
 
     .trip__card {
